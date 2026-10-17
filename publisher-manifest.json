@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "14f3b53a383bd5094734ca5f",
+  "owner": "vcenct",
+  "repo": "page-8a91491723dcc87c9a2f5277",
+  "title": "低价机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8a91491723dcc87c9a2f5277",
+      "a": "低价机场",
+      "b": "",
+      "entity": "低价机场",
+      "brand": "低价机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "846dffde3975b48c943c8f22971c2ce04e9ea3acdff0f3d3620721b451091181",
+      "content": {
+        "keyword1": "低价机场",
+        "keyword2": "",
+        "primary_entity": "低价机场",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "低价机场提供清晰务实的网络接入规格清单、账单明细表以及多平台订阅配置流程说明。",
+          "AI_DESCRIPTION": "低价机场提供清晰务实的网络接入规格清单、账单明细表以及多平台订阅配置流程说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;background-color: #ffffff;color: #1a1a1a;line-height: 1.6;padding: 24px 16px 64px}\nmain {max-width: 960px;margin: 0 auto}\n.tag-line {display: inline-block;background-color: #ff5500;color: #ffffff;font-size: 12px;font-weight: 700;letter-spacing: 1px;padding: 4px 8px;text-transform: uppercase;margin-bottom: 12px}\nh1 {font-size: 32px;line-height: 1.25;color: #000000;letter-spacing: -0.5px;margin-bottom: 16px}\n.lead-intro {font-size: 16px;color: #444444;margin-bottom: 24px;border-left: 3px solid #ff5500;padding-left: 12px}\n.in-page-links {display: flex;flex-wrap: wrap;gap: 12px;margin-bottom: 40px;padding: 12px;background: #fdfdfd;border: 1px dashed #ff5500}\n.in-page-links a {color: #ff5500;text-decoration: none;font-size: 14px;font-weight: 600}\n.in-page-links a:hover {text-decoration: underline}\n\n/* Hero: 纵向时间线引入 */\n.timeline-hero {position: relative;padding-left: 28px;margin-bottom: 48px}\n.timeline-hero::before {content: \"\";position: absolute;left: 7px;top: 6px;bottom: 6px;width: 2px;background-color: #ff5500}\n.timeline-step {position: relative;margin-bottom: 24px}\n.timeline-step:last-child {margin-bottom: 0}\n.timeline-node {position: absolute;left: -28px;top: 4px;width: 16px;height: 16px;border-radius: 50%;background: #ffffff;border: 3px solid #ff5500}\n.timeline-title {font-size: 16px;font-weight: 700;color: #111111;margin-bottom: 4px}\n.timeline-desc {font-size: 14px;color: #555555}\n\n/* 票据虚线卡片 */\n.receipt-card {border: 2px dashed #ff5500;background: #fafafa;padding: 24px;margin-bottom: 40px;position: relative}\n.receipt-card::before, .receipt-card::after {content: \"\";position: absolute;width: 16px;height: 16px;background: #ffffff;border-radius: 50%}\n.receipt-card::before {top: -8px;right: 24px}\n.receipt-card::after {bottom: -8px;right: 24px}\n.section-head {display: flex;justify-content: space-between;align-items: baseline;border-bottom: 2px solid #000000;padding-bottom: 8px;margin-bottom: 20px}\n.section-head h2 {font-size: 20px;font-weight: 800;color: #000000;text-transform: uppercase}\n.section-head .meta-serial {font-size: 12px;font-family: monospace;color: #ff5500;font-weight: 700}\n\n/* 横向对比表格 */\n.table-wrapper {overflow-x: auto;margin-bottom: 8px}\ntable.plans-table {width: 100%;border-collapse: collapse;min-width: 600px;font-size: 14px}\ntable.plans-table th, table.plans-table td {border: 1px dashed #d0d0d0;padding: 12px 14px;text-align: left}\ntable.plans-table th {background-color: #f0f0f0;color: #000000;font-weight: 700}\ntable.plans-table th.featured-col, table.plans-table td.featured-col {background-color: #fff6f2;border-left: 2px solid #ff5500;border-right: 2px solid #ff5500}\n.price-tag {font-size: 20px;font-weight: 800;color: #ff5500;display: block}\n.annual-tag {font-size: 12px;color: #666666;margin-top: 2px}\n.badge-feat {background: #ff5500;color: #ffffff;font-size: 10px;padding: 2px 6px;border-radius: 2px;vertical-align: middle;margin-left: 4px}\n.action-link {display: inline-block;margin-top: 8px;padding: 6px 14px;background: #000000;color: #ffffff;text-decoration: none;font-size: 13px;font-weight: 600}\n.action-link.highlight {background: #ff5500}\n.action-link:hover {opacity: 0.9}\n\n/* 客户端清单 */\n.client-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 16px;margin-top: 16px}\n.client-item {border: 1px dashed #999999;padding: 16px;background: #ffffff}\n.client-item h3 {font-size: 16px;margin-bottom: 8px;color: #000000}\n.client-item p {font-size: 13px;color: #555555;margin-bottom: 8px}\n.client-item .status-tag {display: inline-block;font-size: 11px;color: #ff5500;border: 1px solid #ff5500;padding: 2px 6px}\n\n/* 双栏问答 FAQ */\n.faq-two-col {display: grid;grid-template-columns: 1fr 1fr;gap: 20px}\n@media (max-width: 640px) {\n  .faq-two-col {grid-template-columns: 1fr}\n}\n.faq-box {border-left: 2px solid #ff5500;padding: 4px 0 4px 14px}\n.faq-box h3 {font-size: 15px;color: #000000;margin-bottom: 6px}\n.faq-box p {font-size: 13px;color: #555555;line-height: 1.5}\n\n/* 底部票根声明 */\n.receipt-stub {margin-top: 48px;padding-top: 16px;border-top: 1px dashed #cccccc;font-size: 12px;color: #888888;display: flex;flex-direction: column;gap: 6px}\n</style><main>\n  <span class=\"tag-line\">服务规格清单与部署索引</span>\n  <h1>低价机场 数据交换与接入指引</h1>\n  <p class=\"lead-intro\">本页面罗列低价机场当前的接入节点计划、客户端适配状态及常见问题解答，请依照业务需求对照办理。</p>\n\n  <div class=\"in-page-links\">\n    <span>跳转项：</span>\n    <a href=\"#timeline\">接入周期</a>\n    <a href=\"#plans\">套餐规格表</a>\n    <a href=\"#clients\">终端支持清单</a>\n    <a href=\"#faq\">常见问题与答复</a>\n  </div>\n\n  <section id=\"timeline\" class=\"timeline-hero\">\n    <div class=\"timeline-step\">\n      <div class=\"timeline-node\"></div>\n      <h2 class=\"timeline-title\">阶段 01: 账号校验与套餐锁定</h2>\n      <p class=\"timeline-desc\">核对预算与周期流量配额，根据月均用量选择适配的基础版、旗舰版或团队版规划。</p>\n    </div>\n    <div class=\"timeline-step\">\n      <div class=\"timeline-node\"></div>\n      <h2 class=\"timeline-title\">阶段 02: 协议密钥生成与节点下发</h2>\n      <p class=\"timeline-desc\">系统基于订阅凭证分发通用格式配置串，无需手动编写路由规则与中继参数。</p>\n    </div>\n    <div class=\"timeline-step\">\n      <div class=\"timeline-node\"></div>\n      <h2 class=\"timeline-title\">阶段 03: 终端导入与网络连通确认</h2>\n      <p class=\"timeline-desc\">将订阅链接粘贴至指定平台的通用代理内核工具，同步节点并执行连通性自检。</p>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"receipt-card\">\n    <div class=\"section-head\">\n      <h2>套餐明细与参数对照表</h2>\n      <span class=\"meta-serial\">PLANS-TABLE-V1</span>\n    </div>\n    <div class=\"table-wrapper\">\n      <table class=\"plans-table\">\n        <thead>\n          <tr>\n            <th>对比指标</th>\n            <th>基础版</th>\n            <th class=\"featured-col\">旗舰版 <span class=\"badge-feat\">推荐</span></th>\n            <th>团队版</th>\n          </tr>\n        </thead>\n        <tbody>\n          <tr>\n            <td>月付单价</td>\n            <td><span class=\"price-tag\">¥15/月</span></td>\n            <td class=\"featured-col\"><span class=\"price-tag\">¥35/月</span></td>\n            <td><span class=\"price-tag\">¥85/月</span></td>\n          </tr>\n          <tr>\n            <td>年付优惠</td>\n            <td><span class=\"annual-tag\">按年付仅需 ¥150/年</span></td>\n            <td class=\"featured-col\"><span class=\"annual-tag\">按年付仅需 ¥350/年</span></td>\n            <td><span class=\"annual-tag\">按年付仅需 ¥850/年</span></td>\n          </tr>\n          <tr>\n            <td>每月流量配额</td>\n            <td>100GB 极速流量</td>\n            <td class=\"featured-col\">300GB 极速流量</td>\n            <td>1000GB 极速流量</td>\n          </tr>\n          <tr>\n            <td>同时在线设备</td>\n            <td>3 台</td>\n            <td class=\"featured-col\">5 台</td>\n            <td>20 台</td>\n          </tr>\n          <tr>\n            <td>节点范围与解锁</td>\n            <td>普通线路节点池，解锁基础流媒体</td>\n            <td class=\"featured-col\">IPLC 专线游戏加速优化，全节点原生流媒体解锁</td>\n            <td>VIP 专属高带宽节点，支持企业定制路由</td>\n          </tr>\n          <tr>\n            <td>服务保障等级</td>\n            <td>常规工单响应</td>\n            <td class=\"featured-col\">7x24 优先工单支持</td>\n            <td>专属客户经理服务</td>\n          </tr>\n          <tr>\n            <td>快速操作</td>\n            <td><a href=\"#faq\" class=\"action-link\">查看说明</a></td>\n            <td class=\"featured-col\"><a href=\"#faq\" class=\"action-link highlight\">查看说明</a></td>\n            <td><a href=\"#faq\" class=\"action-link\">查看说明</a></td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n  </section>\n\n  <section id=\"clients\" class=\"receipt-card\">\n    <div class=\"section-head\">\n      <h2>客户端配置标准</h2>\n      <span class=\"meta-serial\">CLIENT-COMPAT-LIST</span>\n    </div>\n    <p>低价机场兼容标准 Clash、Sing-box、Shadowrocket 等主流通用协议内核。官方不提供经过篡改的专有客户端安装包，请使用各平台公认的开源或受信代理程序。</p>\n    <div class=\"client-grid\">\n      <div class=\"client-item\">\n        <h3>Windows 环境</h3>\n        <p>支持基于通用协议的开源图形界面客户端，通过一键导入或订阅链接批量获取节点。</p>\n        <span class=\"status-tag\">支持配置文件导入</span>\n      </div>\n      <div class=\"client-item\">\n        <h3>macOS 环境</h3>\n        <p>适配各主流通用内核管理器，支持系统代理与增强模式，满足日常访问与开发分流。</p>\n        <span class=\"status-tag\">支持订阅解析</span>\n      </div>\n      <div class=\"client-item\">\n        <h3>Android 环境</h3>\n        <p>使用标准代理核心客户端，粘贴订阅地址更新后即可在通知栏管理连接状态。</p>\n        <span class=\"status-tag\">标准通用规则</span>\n      </div>\n      <div class=\"client-item\">\n        <h3>iOS / iPadOS 环境</h3>\n        <p>需在相应区域应用商店获取支持订阅格式的网络工具，手动录入订阅地址并授权连接。</p>\n        <span class=\"status-tag\">扫码 / 链接同步</span>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"receipt-card\">\n    <div class=\"section-head\">\n      <h2>常见问题解答</h2>\n      <span class=\"meta-serial\">DOC-FAQ-ITEMS</span>\n    </div>\n    <div class=\"faq-two-col\">\n      <article class=\"faq-box\">\n        <h3>1. 购买后如何获取节点信息？</h3>\n        <p>完成开通后，在控制台的“订阅信息”栏目复制订阅地址。将该地址导入受支持的客户端中刷新，即可拉取当前套餐所涵盖的所有节点列表。</p>\n      </article>\n      <article class=\"faq-box\">\n        <h3>2. 超过套餐流量上限会发生什么？</h3>\n        <p>当月流量耗尽后节点将暂停数据传输服务，直到下一个账单周期重置，或通过补购临时数据包恢复通行配额。</p>\n      </article>\n      <article class=\"faq-box\">\n        <h3>3. 什么是设备同时在线限制？</h3>\n        <p>基础版限制 3 台、旗舰版 5 台、团队版 20 台同时建立连接。超出限制可能导致早先连接的设备断开或触发临时限流保护机制。</p>\n      </article>\n      <article class=\"faq-box\">\n        <h3>4. 是否支持退款或变更套餐？</h3>\n        <p>套餐变更遵循补差价原则，已消耗的周期性服务费用不可退还。建议在初次选购时优先根据月付规格评估连接表现。</p>\n      </article>\n    </div>\n  </section>\n\n  <footer class=\"receipt-stub\">\n    <p>凭证代码: #LC-DOC-2025 // 低价机场 规格清单公开页面</p>\n    <p>声明: 本页面仅用于技术参数与服务清单展示，网络服务请在遵守当地法律法规的前提下合规使用。</p>\n  </footer>\n</main>",
+          "hash": "14faba273701fe92f7cb9b226c6094b877b31e0017aceb83ae9a27237d9078ba",
+          "seo": {
+            "title": "低价机场 - 规格清单与服务对照总览",
+            "keywords": "低价机场,网络配置,套餐规格,流量账单,客户端说明",
+            "description": "低价机场提供清晰务实的网络接入规格清单、账单明细表以及多平台订阅配置流程说明。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "2525",
+            "hero": "6 纵向时间线引入",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "osrdukc.cn",
+    "host": "p-1ccd2b392b.osrdukc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "383586e81348172becf74002964482ba8ab7f2dde0fc2893f0dbf0a8c256dec0",
+    "sitemap.xml": "64bed96047a35f93b0c8748a3e8f417025bd67b183492b4be5dd7862d92f1f27",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "096704b638b3ce52cf49689a92c2107eaca975e8c596f3afc047f81fe8440213",
+    "robots.txt": "162f98c50471d527b2f3a925d62e375056731d4e81bd5eab9fd7cdd00af0a2b9",
+    "8160565852d0f6657f4a5c0d38a8f582.txt": "fd84c74886dae2f5e85c33aa5d7e329d8d4e59c6c9eb150753ff0fb27ac6bf71"
+  },
+  "revision": "4ec062eb1b2d5ef7411ec88d79affe4865896fbeda42ed0e91436f2e8e8a660b"
+}
